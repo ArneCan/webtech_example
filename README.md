@@ -5,7 +5,7 @@ les2 practise example
 - Martijn Leemans
 - Lennart Verjans
 - Joppe Colla
--
+- Arne Cannaerts
 -
 -
 -
